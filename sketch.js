@@ -1,7 +1,7 @@
 function setup() {
 <<<<<<< HEAD
     createCanvas(400, 400);
-    background("white")
+    background("black")
   }
 =======
   createCanvas(400, 400);
